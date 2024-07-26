@@ -45,7 +45,9 @@ This Weather App project not only demonstrates proficiency in front-end developm
 Feel free to explore the project and get real-time weather updates for your city!
 
 #SCREENSHOTS
-"C:\Users\aman kumar\Downloads\Screenshot 1.png"
-"C:\Users\aman kumar\Downloads\Screenshot 2.png"
+![Screenshot 1](https://github.com/user-attachments/assets/b1724928-6748-4b4d-9dd3-4a5f01806170)
+![Screenshot 2](https://github.com/user-attachments/assets/8cf23599-0915-44c9-a1bf-cb7b863d0083)
+
+
 
 ---
