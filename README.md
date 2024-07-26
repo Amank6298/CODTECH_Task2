@@ -45,7 +45,7 @@ This Weather App project not only demonstrates proficiency in front-end developm
 Feel free to explore the project and get real-time weather updates for your city!
 
 #SCREENSHOTS
-![WhatsApp Image 2024-07-10 at 19 17 59_cf21eab1](https://github.com/Tanmay0809/CODETECH-Task1/assets/136161600/5586c75f-270f-4c95-871c-3f775b96a861)
-![WhatsApp Image 2024-07-10 at 18 16 18_cc32bd53](https://github.com/Tanmay0809/CODETECH-Task1/assets/136161600/03a2edae-9292-4f43-980d-90b62f22b5f7)
+"C:\Users\aman kumar\Downloads\Screenshot 1.png"
+"C:\Users\aman kumar\Downloads\Screenshot 2.png"
 
 ---
